@@ -24,16 +24,16 @@ Repository Contents
 
 Created for Murdoch's ICT171
 
-Below are brief samples of the codes used to build the webpages of my website:
+Below are brief samples of the code used to build the webpages of my website:
 
 - HomePage-
 [HomePage.md](CreationofWebpages-HomePage.md)
 
 - Men Section Page-
-[MenSectionPage.md](MenSection.md)
+[MenSectionPage.md](CreationofWebpages-MenSection.md)
 
 - Female Section Page-
 [FemaleSectionPage.md](CreationofWebpages-WomenSection.md)
 
 - Accessories Section Page-
-[AccessoriesSectionPage.md](AccessoriesSection.md)
+[AccessoriesSectionPage.md](CreationofWebpages-AccessoriesSection.md)
