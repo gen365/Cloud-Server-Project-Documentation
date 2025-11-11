@@ -3,4 +3,4 @@ Homepage
 I have written the code for the homepage, which serves as the main entry point to the website. 
 It includes navigation links to all other sections and introduces the overall design, layout, and purpose of the site.
 Here is an image: 
-![Diagram](images/Indexpage.png)
+![Diagram](Indexpage.png)
