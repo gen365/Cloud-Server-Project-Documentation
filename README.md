@@ -24,7 +24,7 @@ Repository Contents
 
 Created for Murdoch's ICT171
 
-Below are brief samples for the codes used to build the webpages of my website:
+Below are brief samples for the codes used to build the webpages of my website
 HomePage-
 [file1.md](CreationofWebpages-HomePage.md)
 
