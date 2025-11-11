@@ -26,8 +26,14 @@ Created for Murdoch's ICT171
 
 Below are brief samples of the codes used to build the webpages of my website:
 
-HomePage-
+- HomePage-
 [HomePage.md](CreationofWebpages-HomePage.md)
 
-Men Section Page-
+- Men Section Page-
 [MenSectionPage.md](MenSection.md)
+
+- Female Section Page-
+[FemaleSectionPage.md](FemaleSection.md)
+
+- Accessories Section Page-
+[AccessoriesSectionPage.md](AccessoriesSection.md)
