@@ -132,4 +132,9 @@ are made. Find them below:
 </html>
 ```
 
+Images-
+Next, to upload images for products on my website, I have taken screenshots of random products online, and
+in the terminal of my laptop, I have used the path of each image to save the images onto my microsoft azure virtual machine, using
+the virtual machine name and public IP Address, Below is a screenshot of my terminal:
 
+![Diagram](images.png)
