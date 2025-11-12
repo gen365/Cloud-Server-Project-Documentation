@@ -140,4 +140,4 @@ the virtual machine name and public IP Address. Below is a screenshot of my term
 ![Diagram](images.png)
 
 
-Finally, the last webpage to be created is the cart webpage - [Cartpage.md](cartpage.md)
+Finally, the last webpage to be created is the cart webpage - [Cartpage.md](Cartpage.md)
