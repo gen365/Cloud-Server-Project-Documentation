@@ -46,4 +46,79 @@ After creation of the webpages for the website, additional pages such as the con
 are made. Find them below:
 
 - About Page-
+```!DOCTYPE html>
+<html lang="en">
+<head>
+        <meta charset="UTF-8">
+        <meta name="viewport" content="width=device-width, initial-scale=1.0">
+        <title>About - SwiftShop</title>
+        <link rel="stylesheet" href="css/style.css">
+</head>
+<body>
+        <header>
+                <h1>SwiftShop</h1>
+                <p>Your Style, Delivered</p>
+        </header>
+
+        <nav>
+                <a href="index.html">Home</a>
+                <a href="men.html">Men</a>
+                <a href="women.html">Women</a>
+                <a href="accessories.html">Accessories</a>
+                <a href="about.html">About</a>
+                <a href="contact.html">Contact</a>
+        </nav>
+
+        <section class="about">
+                <h2>About SwiftShop</h2>
+                <p>SwiftShop was founded to bring style, quality, and convenience together in one place. Our mission is to make fashion accessible,
+                   comfortable, and stylish for everyone.</p>
+                <p>We carefully create each collection and focus on quality materials, sustainable practices, and excellent customer service.</p>
+        </section>
+</body>
+</html>
+```
+
+- Contact Page-
+```<!DOCTYPE html>
+<html lang="en">
+<head>
+        <meta charset="UTF-8">
+        <meta name="viewport" content="width=device-width, initial-scale=1.0">
+        <title>Contact - SwiftShop</title>
+        <link rel="stylesheet" href="css/style.css">
+</head>
+<body>
+        <header>
+                <h1>SwiftShop</h1>
+                <p>Your Style, Delivered</p>
+        </header>
+
+        <nav>>
+        <a href="index.html">Home</a>
+        <a href="men.html">Men</a>
+        <a href="women.html">Women</a>
+        <a href="accessories.html">Accessories</a>
+        <a href="about.html">About</a>
+        <a href="contact.html">Contact</a>
+        </nav>
+
+        <section class="contact">
+                <h2>Contact Us</h2>
+                <p>Email:support@mycommerce.store</p>
+                <p>Phone: +1 555 123 4567</p>
+                <p>Address: 123 Fashion Street, Style City</p>
+
+                <h3>Send us a message</h3>
+                <form>
+                        <input type="text" name="name" placeholder="Your Name" required><br><br>
+                        <input type="email" name="email" placeholder= "Your Email" required><br><br>
+                        <textarea name="message" placeholder="Your Message" rows="5" required></textarea><br><br>
+                        <button type="submit">Send Message</button>
+                </form>
+        </section>
+</body>
+</html>
+```
+
 
