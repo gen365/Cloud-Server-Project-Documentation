@@ -48,8 +48,12 @@ where customers' items go when they click on add item, in the product pages HTML
 ```
 
 
-Alongside the cart HTML page, a Java page was also created to simulate the storing of the name and price of
+For the cart HTML page to function properly, a Java page was also created to simulate the storing of the name and price of
 items in the cart HTML: 
 
 ![Diagram](cartjava.png)
 
+Alongside the cart page, a checkout section is also added to it, as can be seen enclosed in <section> and </section> in the first image. 
+With that, a checkout Java page is also created to ensure this mechanism works:
+
+![Diagram](checkoutjava.png)
