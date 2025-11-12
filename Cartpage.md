@@ -53,7 +53,7 @@ items in the cart HTML:
 
 ![Diagram](cartjava.png)
 
-Alongside the cart page, a checkout section is also added to it, as can be seen enclosed in '<section>' and '</section>' in the first image. 
+Alongside the cart page, a checkout section is also added to it, as can be seen enclosed in the 'section' group in the first image. 
 With that, a checkout Java page is also created to ensure this mechanism works:
 
 ![Diagram](checkoutjava.png)
