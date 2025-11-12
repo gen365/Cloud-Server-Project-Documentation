@@ -171,3 +171,22 @@ so that the current record of the IP address from mycommerce.store is shown, and
 the Domain name has been successfully linked.
 
 ![Diagram](DNSVerify.png)
+
+
+
+Finally, to complete the creation of the website, the last thing to do is configure the firewall and brute force protection on the website
+The following screenshots shows the list of correct commands use to secure the website:
+
+![Diagram](Secure1.png)
+
+
+![Diagram](Secure2.png)
+
+
+![Diagram](Secure3.png)
+
+
+![Diagram](Secure4.png)
+
+
+![Diagram](Secure5.png)
