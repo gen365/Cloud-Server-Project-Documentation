@@ -147,6 +147,22 @@ Finally, the last webpage to be created is the cart webpage - [Cartpage.md](Cart
 DNS Linking
 
 After the creation of the website, the next thing to do is to link it to a domain name, so it is usable on a web browser by anyone.
-To do this, first, a domain name must be bought from a provider such as GoDaddy or Squarespace. I have bought my domain name, mycommerce.store from
+To do this, first, a domain name must be bought from a provider such as GoDaddy or Squarespace. I have bought my domain name, mycommerce.store, from
 Squarespace, and have linked it on the Squarespace website to the public IP of my Microsoft Azure virtual machine: 
 ![Diagram](DNSLink.png)
+
+
+The following configuration is also put in place on the virtual machine so that it can also be linked to the domain name from Squarespace:
+```
+<VirtualHost *:80>
+        ServerName mycommerce.store
+        ServerAlias www.mycommerce.store
+        DocumentRoot /var/www/html
+        <Directory /var/www/html>
+                AllowOverride All
+        </Directory>
+        Erroring ${APACHE_LOG_DIR}/error.log
+        CustomLog ${APACHE_LOG_DIR}/access.log combines
+</VirtualHost>
+```
+
