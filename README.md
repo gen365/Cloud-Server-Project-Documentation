@@ -37,3 +37,13 @@ Below are brief samples of the code used to build the webpages of my website:
 
 - Accessories Section Page-
 [AccessoriesSectionPage.md](CreationofWebpages-AccessoriesSection.md)
+
+While making these webpages, seemingly minor but obviously important syntax errors were present
+so these errors were identified and fixed for the webpages to be deployed successfully.
+
+
+After creation of the webpages for the website, additional pages such as the contact and about page
+are made. Find them below:
+
+- About Page-
+
