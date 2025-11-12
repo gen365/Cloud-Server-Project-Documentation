@@ -166,3 +166,8 @@ The following configuration is also put in place on the virtual machine so that 
 </VirtualHost>
 ```
 
+To confirm the link of my virtual machine files, and the domain name from Squarespace, I run the command nslookup mycommerce.store 8.8.8.8
+so that the current record of the IP address from mycommerce.store is shown, and with the IP address of my Azure virtual machine showing, this means
+the Domain name has been successfully linked.
+
+![Diagram](DNSVerify.png)
