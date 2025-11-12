@@ -46,3 +46,10 @@ where customers' items go when they click on add item, in the product pages HTML
 </body>
 </html>
 ```
+
+
+Alongside the cart HTML page, a Java page was also created to simulate the storing of the name and price of
+items in the cart HTML: 
+
+![Diagram](cartjava.png)
+
