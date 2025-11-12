@@ -191,6 +191,17 @@ The following screenshots shows the list of correct commands use to secure the w
 
 ![Diagram](Secure5.png)
 
+Some syntax errors were present in the initial version of the code. These errors have been identified and corrected progressively throughout 
+the program to ensure proper functionality. The corrected code now runs as intended, with all previous syntax issues resolved.
+
+
+In conclusion, this repository provides a complete overview of the project, including explanations, examples, and corrected code. 
+All sections have been carefully documented using actual code and screenshots of the code  to ensure clarity and usability, 
+allowing users to understand, run, and modify the code effectively. This repository is now structured and may be used as a reference 
+and guide for future development.
+
+
+
 Attached is the documentation of the creation of this website via screenshots:
 
 
