@@ -26,10 +26,15 @@ Created for Murdoch's ICT171
 
 In order to create the website on Microsoft Azure's VM, Apache2 needs to be installed and
 updated on the VM, this is done in the following screenshots:
+
 ![Diagram](apache2.png)
+
 ![Diagram](apache2b.png)
+
 ![Diagram](apache2c.png)
 
+After the installation and updating of Aoache2, the webpages of the website are created using the command 'sudo nano name.html'.
+Three webpages are made for the products section of my website, and they are all named based on their section.
 Below are brief samples of the code used to build the webpages of my website:
 
 - HomePage-
