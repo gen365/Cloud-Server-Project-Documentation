@@ -207,6 +207,8 @@ and guide for future development.
 
 Attached is the documentation of the creation of this website via screenshots:
 [View the Project Report](CloudServerProject.pdf)
+
 Attached is the link to the web server:
 http://mycommerce.store 
+
 Below is the video explainer for the creation of this website:
