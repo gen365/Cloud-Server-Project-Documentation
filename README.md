@@ -190,3 +190,8 @@ The following screenshots shows the list of correct commands use to secure the w
 
 
 ![Diagram](Secure5.png)
+
+Attached is the documentation of the creation of this website via screenshots:
+
+
+Below is the video explainer for the creation of this website:
