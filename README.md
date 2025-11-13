@@ -317,7 +317,7 @@ The following screenshots shows the list of correct commands use to secure the w
 ![Diagram](Secure2.png)
 
 
-![Diagram](Secure3.png)
+![Diagram](Security3.png)
 
 
 ![Diagram](Secure4.png)
