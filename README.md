@@ -136,6 +136,136 @@ are made. Find them below:
 </html>
 ```
 
+With all webpages now created, a style.css file is made and linked to every other webpage so that the website has a uniform style
+and layout, that is simple and user-friendly. Below is the code for the style.css file. 
+```
+* { margin: 0; padding: 0; box-sizing: border-box; }
+body { font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif; background-color: #f8f8f8; color: #333; }
+
+header {
+    background-color: #111;
+    color: white;
+    padding: 20px 0;
+    text-align: center;
+    letter-spacing: 1px;
+}
+header h1 { font-size: 2rem; font-weight: bold; }
+
+nav {
+    background-color: #222;
+    display: flex;
+    justify-content: center;
+    gap: 40px;
+    padding: 12px 0;
+}
+nav a {
+    color: white;
+    text-decoration: none;
+    font-weight: 500;
+    transition: color 0.3s;
+}
+nav a:hover { color: #ff8c00; }
+
+.hero {
+    background-image: url("../images/placeholder.png");
+    background-size: cover;
+    background-position: center;
+    height: 400px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    color: white;
+    text-shadow: 0 2px 8px rgba(0,0,0,0.5);
+    flex-direction: column;
+}
+.hero h2 { font-size: 2.5rem; margin-bottom: 10px; text-align: center; }
+.hero button {
+    background-color: #ff8c00;
+    border: none;
+    padding: 12px 24px;
+    font-size: 1rem;
+    color: white;
+    cursor: pointer;
+    border-radius: 4px;
+}
+.hero button:hover { background-color: #ff9c33; }
+
+.products {
+    display: grid;
+    grid-template-columns: repeat(auto-fit, minmax(250px, 1fr));
+    gap: 20px;
+    width: 90%;
+    margin: 40px auto;
+}
+
+.products .product {
+    text-align: center;
+    border: 1px solid #ddd;
+    border-radius: 8px;
+    overflow: hidden;
+    transition: transform 0.3s, box-shadow 0.3s;
+    cursor: pointer;
+    background-color: white;
+    display: flex;
+    flex-direction: column;
+    justify-content: space-between;
+    padding-bottom: 15px;
+}
+
+.products .product img {
+    width: 100%;
+    height: 250px;
+    object-fit: cover;
+    transition: transform 0.3s;
+}
+.products .product:hover img {
+    transform: scale(1.05);
+}
+
+.products .product h3 {
+    margin: 10px 0 5px 0;
+    font-size: 1.4rem;
+    font-weight: 600;
+}
+
+.products .product p.price {
+    font-size: 1.2rem;
+    color: #ff8c00;
+    margin-bottom: 10px;
+}
+
+.products .product button {
+    background-color: #ff8c00;
+    color: white;
+    border: none;
+    padding: 10px 15px;
+    border-radius: 5px;
+    font-size: 1rem;
+    cursor: pointer;
+    transition: background-color 0.3s, transform 0.2s;
+}
+.products .product button:hover {
+    background-color: #ff9c33;
+    transform: scale(1.05);
+}
+
+.products .product:hover {
+    transform: translateY(-5px);
+    box-shadow: 0 8px 20px rgba(0,0,0,0.15);
+}
+
+footer {
+    background-color: #111;
+    color: #bbb;
+    text-align: center;
+    padding: 20px;
+    margin-top: 68px;
+    font-size: 0.9rem;
+}
+```
+(This style.css file was edited after the creation of the video explainer so codes may not look similar as minor changes have been made.)
+
+
 Images-
 Next, to upload images for products on my website, I have taken screenshots of random products online, and
 in the terminal of my laptop, I have used the path of each image to save the images onto my Microsoft Azure virtual machine, using
