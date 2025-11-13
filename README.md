@@ -213,3 +213,4 @@ Attached is the link to the web server:
 http://mycommerce.store 
 
 Below is the video explainer for the creation of this website:
+[Watch the Video Explainer here](https://github.com/gen365/Cloud-Server-Project-Documentation/releases/download/v1.0/VideoExplainer.mov)
