@@ -153,7 +153,7 @@ DNS Linking
 After the creation of the website, the next thing to do is to link it to a domain name, so it is usable on a web browser by anyone.
 To do this, first, a domain name must be bought from a provider such as GoDaddy or Squarespace. I have bought my domain name, mycommerce.store, from
 Squarespace, and have linked it on the Squarespace website to the public IP of my Microsoft Azure virtual machine: 
-![Diagram](DNSLink.png)
+![Diagram](DNSLinking.png)
 
 
 The following configuration is also put in place on the virtual machine so that it can also be linked to the domain name from Squarespace:
